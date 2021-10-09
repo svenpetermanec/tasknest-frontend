@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "https://svenpetermanec.github.io/tasknest-frontend/static/css/main.87c0382f.chunk.css",
+    "main.js": "https://svenpetermanec.github.io/tasknest-frontend/static/js/main.20698ead.chunk.js",
+    "main.js.map": "https://svenpetermanec.github.io/tasknest-frontend/static/js/main.20698ead.chunk.js.map",
+    "runtime~main.js": "https://svenpetermanec.github.io/tasknest-frontend/static/js/runtime~main.40ebdc5f.js",
+    "runtime~main.js.map": "https://svenpetermanec.github.io/tasknest-frontend/static/js/runtime~main.40ebdc5f.js.map",
+    "static/js/2.fe2c879e.chunk.js": "https://svenpetermanec.github.io/tasknest-frontend/static/js/2.fe2c879e.chunk.js",
+    "static/js/2.fe2c879e.chunk.js.map": "https://svenpetermanec.github.io/tasknest-frontend/static/js/2.fe2c879e.chunk.js.map",
+    "index.html": "https://svenpetermanec.github.io/tasknest-frontend/index.html",
+    "precache-manifest.601aa6913bd5bc6c7fa03ef02b84cec3.js": "https://svenpetermanec.github.io/tasknest-frontend/precache-manifest.601aa6913bd5bc6c7fa03ef02b84cec3.js",
+    "service-worker.js": "https://svenpetermanec.github.io/tasknest-frontend/service-worker.js",
+    "static/css/main.87c0382f.chunk.css.map": "https://svenpetermanec.github.io/tasknest-frontend/static/css/main.87c0382f.chunk.css.map"
+  }
+}
